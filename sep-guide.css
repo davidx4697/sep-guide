@@ -3,7 +3,7 @@ body {
     height: 100%;
     font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
-    background-color: blue;
+    background-color: #5E5E5E;
     /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
@@ -88,7 +88,7 @@ body {
     }
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        background: black;
+        background: #16873B;
         border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     }
 }
@@ -96,6 +96,7 @@ body {
 .light {
     font-weight: 400;
 }
+
 .content-section {
-  padding-top: 100px;
+    padding-top: 100px;
 }
