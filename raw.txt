@@ -1,0 +1,68 @@
+9: scratch python basic html
+10: p5js processing, data,
+11: github, html and css3, bootstrap, js and jquery
+12:ruby
+
+
+
+Add examples of these for each year
+
+Opportunities 
+Field trips, hackathons, internships, summer programs, end of the year showcase
+
+Grades:
+Participation, homework, own portfolio, projects, quizzes
+
+Skills that will be learned:
+Collabs
+Deadlines, planning before typing, practice, dedication
+
+Resources used during class:
+W3schools, p5js, google, bootstrap, 
+
+
+Content: 
+
+Sep10 https://sites.google.com/a/hstat.org/10sep1516/processing
+
+Navbar: home        students    parents     review
+
+Home: The SEP program was created to expose students into topics like processing, robotics, gathering and analyzing data,python, html and css. SEP is a class that takes all 4 years and is only for determined and creative students. The class will strengthen students’ creativity, initiative, ability to cooperate with others, and will also learn how to snap their fingers
+
+Students
+
+What you will learn
+9th grade
+ Scratch: A platform used to make processing seem simpler. The platform replaces code for blocks and does not show you the true power of processing. Here you will make games and will learn the fundamental building blocks and use them later on.
+
+Robotics: Using the EV3 software, you will write code that will control a robot in the real world. This lesson will make you realize the stuff that software can do.
+
+Python: A simple software language used to show beginners what coding will be and how it may look like.The important syntax that this language requires makes students learn the importance of it in other languages.
+
+10th Grade
+Processing: In this grade you will learn p5js to create games. This language is more advanced than anything in 9th grade. P5js is a mix of JS and aims at being an easy language to use when creating a visual project.
+
+Makey Makey/Arduino:
+Using code and real life circuits to make LEDs blink in certain patterns. 
+Data:
+Lesson that focuses on gathering data and using the same data to make predictions. Learn how to make formulas making gathering data easy and also learn how they are important.
+
+11th Grade
+ 
+Github: 
+A program from the github.com webpage. Used to organize and make saves and edits much easier not only for independent project but also for collaborations. Makes working on projects and also previewing it easier as well. 
+
+Web Design:
+ Re-learning the basics of HTML and CSS to later explore deeper into them. You would then also learn about bootstrap and how it is important to have a responsive website.
+
+
+12th Grade rewrite::::
+3D Modeling
+In this topic, students will be able to create anything that they want with a program, and then they will be able to print it out. They will “Create 3D renderings of objects” - hstat.org/sep11. This course is only about 2-3 weeks, (end of the year project) however it is a clear outlet to inspiring a possible future job.
+12
+Ruby
+Ruby is a programing language that “serves [as] the back end of many web applications” - hstat.org/sep12. This is a very popular language and is in high demand in the market place. It is clear/readable however it is very powerful because programmers can change and redefine parts of Ruby. 
+Sinatra
+Sinatra is a program that is written in Ruby. Sinatra is a small and is used to write web page applications. This program is ideal for students to get started with web application development. This flexible language will help students prepare for more complex languages in the future, such as “Ruby on Rails”. According to hstat.org/sep12, students will “apply the Model-View-Controller framework and interact with APIs.”
+Independent Study
+In this topic, students will aim towards learning a new topic on their own, and then will present their findings to the class. Students will, “research, build with, and present on the topic of their choosing” - hstat.org/sep12.
