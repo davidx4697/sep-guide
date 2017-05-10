@@ -124,25 +124,45 @@ video#bgvid {
 }
 
 @media(min-width:0px) {
-    #homeInfo #studentsInfo {
+    #homeInfo,
+    #studentsInfo,
+    #opp,
+    #grades,
+    #skills,
+    #resources {
         font-size: 20px;
     }
 }
 
 @media(max-width:768px) {
-    #homeInfo #studentsInfo {
+   #homeInfo,
+    #studentsInfo,
+    #opp,
+    #grades,
+    #skills,
+    #resources{
         font-size: 30px;
     }
 }
 
 @media(max-width:992px) {
-    #homeInfo #studentsInfo {
+    #homeInfo,
+    #studentsInfo,
+    #opp,
+    #grades,
+    #skills,
+    #resources {
         font-size: 50px;
     }
 }
 
 @media(max-width:1200px) {
-    #homeInfo #studentsInfo {
+    #homeInfo,
+    #studentsInfo,
+    #opp,
+    #grades,
+    #skills,
+    #resources {
         font-size: 80px;
     }
 }
@@ -160,7 +180,14 @@ video#bgvid {
     text-align: center;
 }
 
-#studentsInfo {
+#studentsInfo,
+#opp,
+#grades,
+#skills,
+#resources {
     text-align: center;
     font-size: 50px;
+}
+h3 {
+    text-align: center;
 }
