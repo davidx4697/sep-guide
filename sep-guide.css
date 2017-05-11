@@ -135,12 +135,12 @@ video#bgvid {
 }
 
 @media(max-width:768px) {
-   #homeInfo,
+    #homeInfo,
     #studentsInfo,
     #opp,
     #grades,
     #skills,
-    #resources{
+    #resources {
         font-size: 30px;
     }
 }
@@ -184,10 +184,22 @@ video#bgvid {
 #opp,
 #grades,
 #skills,
-#resources {
+#resources,
+#home3,
+#homeInfo{
     text-align: center;
-    font-size: 50px;
+    font-size: 45px;
+   
 }
+
 h3 {
     text-align: center;
+    font-size:50px;
 }
+#home3{
+     padding-top: 50%;
+}
+ 
+ #logo {
+     padding-top:60px;
+ }
