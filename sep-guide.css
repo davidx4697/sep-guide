@@ -4,7 +4,7 @@ body {
     font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
     /*background-color: #576B72;*/
-    background-color:#334D5C;
+    background-color: #334D5C;
     display: block;
     /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -118,8 +118,9 @@ video#bgvid {
 
 /* home */
 
-#home3 {
-    top: 50%;
+#home3,
+#home {
+    padding-top: 50%;
     font-size: 50px;
     text-align: center;
 }
@@ -137,67 +138,44 @@ video#bgvid {
     text-align: center;
 }
 
-#studentsInfo,
-#opp,
-#grades,
-#skills,
-#resources,
-#home3,
-#homeInfo,
-#scratch,
-#robotics,
-#python,
-#students3 {
+p {
     text-align: center;
-    font-size: 45px;
+    font-size: 25px;
 }
 
 h3 {
     text-align: center;
-    font-size: 10px;
-    top:50%;
-    color:#46B29D;
-}
-
-#home3 {
-    padding-top: 50%;
+    top: 100%;
+    color: #46B29D;
 }
 
 #logo {
     padding-top: 60px;
 }
 
+
+/* Robotics */
+
+#robotics {
+    position: relative;
+    bottom: 160px;
+}
+
+
+/* Scratch */
+
+#scratch {
+    position: relative;
+    top: 100px;
+}
+
 @media(max-width:768px) {
-    #homeInfo,
-    #studentsInfo,
-    #opp,
-    #grades,
-    #skills,
-    #resources,
-    #scratch,
-    #robotics,
-    #python,
-    #students3 {
-        font-size: 30px;
-    }
     h3 {
         font-size: 30px;
     }
 }
 
 @media(max-width:992px) {
-    #homeInfo,
-    #studentsInfo,
-    #opp,
-    #grades,
-    #skills,
-    #resources,
-    #scratch,
-    #robotics,
-    #python,
-    #students3 {
-        font-size: 25px;
-    }
     h3 {
         font-size: 40px;
         top: 50%;
@@ -208,19 +186,10 @@ h3 {
 }
 
 @media(min-width:1200px) {
-    #homeInfo,
-    #studentsInfo,
-    #opp,
-    #grades,
-    #skills,
-    #resources,
-    #scratch,
-    #robotics,
-    #python,
-    #students3 {
-        font-size: 30px;
-    }
     h3 {
-        font-size: 50px;
+        font-size: 40px;
     }
 }
+
+
+/* IMAGES*/
