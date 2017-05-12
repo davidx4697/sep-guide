@@ -169,6 +169,11 @@ h3 {
     top: 100px;
 }
 
+#python1 {
+    position: relative;
+    bottom: 250px;
+}
+
 @media(max-width:768px) {
     h3 {
         font-size: 30px;
@@ -193,3 +198,6 @@ h3 {
 
 
 /* IMAGES*/
+
+
+/* Animations */
