@@ -158,7 +158,12 @@ h3 {
 
 #robotics {
     position: relative;
-    bottom: 160px;
+    bottom: 210px;
+}
+
+#robots1 {
+    position: relative;
+    top: 70px;
 }
 
 
