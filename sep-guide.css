@@ -291,6 +291,7 @@ h3 {
 #github1 {
     background-image: no-repeat;
 }
+
 #indstudy {
     padding-top: 150px;
 }
@@ -300,7 +301,7 @@ h3 {
         font-size: 30px;
     }
     #home3 {
-        padding-top:7%;
+        padding-top: 70%;
     }
 }
 
@@ -317,6 +318,9 @@ h3 {
 @media(min-width:1200px) {
     h3 {
         font-size: 40px;
+    }
+    #home3 {
+        padding-top: 75%;
     }
 }
 
