@@ -13,9 +13,6 @@ jQuery(document).ready(function($) {
     $(window).scroll(collapseNavbar);
     $(document).ready(collapseNavbar);
 
-    $scrollableElement.on('click.bootstrap-anchors', 'a[href*="#"]:not([data-toggle],[data-target],[data-slide])', function(e) {
-        this.scrollTo(e);
-    });
 
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $(function() {
@@ -27,6 +24,8 @@ jQuery(document).ready(function($) {
             event.preventDefault();
         });
     });
+
+
     $(function() {
 
 
@@ -48,19 +47,5 @@ jQuery(document).ready(function($) {
             }
         });
     });
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-            if ($(this).attr("href") == ".carousel .item") return;
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html,body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-    });
+
 });
