@@ -54,6 +54,7 @@ A program from the github.com webpage. Used to organize and make saves and edits
 
 Web Design:
  Re-learning the basics of HTML and CSS to later explore deeper into them. You would then also learn about bootstrap and how it is important to have a responsive website.
+
 3D Modeling:
 In this unit, students will be able to create anything they want with a program, printing it out as a three dimensional model.
 
