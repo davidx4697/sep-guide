@@ -313,6 +313,9 @@ h3 {
     #home3 {
         padding-top: 85%;
     }
+    #homeInfo {
+        padding-top: 80%;
+    }
 }
 
 @media(max-width:1200px) {
@@ -321,6 +324,9 @@ h3 {
     }
     #home3 {
         padding-top: 85%;
+    }
+    #homeInfo {
+        padding-top: 80%;
     }
 }
 
