@@ -108,7 +108,7 @@ video#bgvid {
     height: auto;
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
-    background: url(img/sep-guide-logo.jpg) no-repeat;
+    background: url() no-repeat;
     background-size: cover;
 }
 
@@ -299,6 +299,9 @@ h3 {
     h3 {
         font-size: 30px;
     }
+    #home3 {
+        padding-top:7%;
+    }
 }
 
 @media(max-width:992px) {
@@ -307,7 +310,7 @@ h3 {
         top: 50%;
     }
     #home3 {
-        top: 50%;
+        padding-top: 70%;
     }
 }
 
