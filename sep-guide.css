@@ -301,7 +301,10 @@ h3 {
         font-size: 30px;
     }
     #home3 {
-        padding-top: 70%;
+        padding-top: 100%;
+    }
+    #homeInfo {
+        padding-top:100%;
     }
 }
 
