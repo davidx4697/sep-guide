@@ -175,6 +175,15 @@ h3 {
 }
 
 
+/*carousel item*/
+
+.carousel .item {
+    width: 100%;
+    height: 100%;
+    background-color: #777;
+}
+
+
 /* Gallery */
 
 .gallery-box {
@@ -275,8 +284,15 @@ h3 {
 
 /*}*/
 
+#sinatra {
+    padding-top: 150px;
+}
+
 #github1 {
     background-image: no-repeat;
+}
+#indstudy {
+    padding-top: 150px;
 }
 
 @media(max-width:768px) {
