@@ -54,15 +54,16 @@ A program from the github.com webpage. Used to organize and make saves and edits
 
 Web Design:
  Re-learning the basics of HTML and CSS to later explore deeper into them. You would then also learn about bootstrap and how it is important to have a responsive website.
+3D Modeling:
+In this unit, students will be able to create anything they want with a program, printing it out as a three dimensional model.
 
 
-12th Grade rewrite::::
-3D Modeling
-In this topic, students will be able to create anything that they want with a program, and then they will be able to print it out. They will “Create 3D renderings of objects” - hstat.org/sep11. This course is only about 2-3 weeks, (end of the year project) however it is a clear outlet to inspiring a possible future job.
 12
 Ruby
-Ruby is a programing language that “serves [as] the back end of many web applications” - hstat.org/sep12. This is a very popular language and is in high demand in the market place. It is clear/readable however it is very powerful because programmers can change and redefine parts of Ruby. 
+Ruby is a programing language that is widely used in websites. Its a language that gives control of back-end parts of websites. It is also used in many other languages.
+
 Sinatra
-Sinatra is a program that is written in Ruby. Sinatra is a small and is used to write web page applications. This program is ideal for students to get started with web application development. This flexible language will help students prepare for more complex languages in the future, such as “Ruby on Rails”. According to hstat.org/sep12, students will “apply the Model-View-Controller framework and interact with APIs.”
+Sinatra is a program that is written in Ruby. A simple language that will teach students how smart phone applications work and how to create one.                      
+
 Independent Study
-In this topic, students will aim towards learning a new topic on their own, and then will present their findings to the class. Students will, “research, build with, and present on the topic of their choosing” - hstat.org/sep12.
+In this final lesson of SEP, students will have the option of choosing what to learn on a timeline. After researching and learning on their own, they will show the class what they have learned.
