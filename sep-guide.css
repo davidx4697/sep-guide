@@ -4,7 +4,7 @@ body {
     font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: black;
     /*background-color: #576B72;*/
-    background-color: #224D73;
+    background-color: #B6B6B3;
     display: block;
     /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -82,7 +82,7 @@ body {
     }
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        background: #595959;
+        background: #224D73;
         border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     }
 }
@@ -144,6 +144,7 @@ p {
 }
 
 h3 {
+    text-transform: uppercase;
     text-align: center;
     top: 100%;
 }
@@ -304,7 +305,7 @@ h3 {
         padding-top: 100%;
     }
     #homeInfo {
-        padding-top:100%;
+        padding-top: 100%;
     }
 }
 
@@ -330,6 +331,12 @@ h3 {
     }
     #homeInfo {
         padding-top: 100%;
+    }
+    .offset1 {
+        margin-left: 330px;
+    }
+    .offset2 {
+        margin-left: 830px;
     }
 }
 

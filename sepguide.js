@@ -26,26 +26,5 @@ jQuery(document).ready(function($) {
     });
 
 
-    $(function() {
-
-
-        $('.flyIn').bind('inview', function(event, visible) {
-            if (visible === true) {
-                $(this).addClass('animated fadeInUp');
-            }
-        });
-
-        $('.flyLeft').bind('inview', function(event, visible) {
-            if (visible === true) {
-                $(this).addClass('animated fadeInLeftBig');
-            }
-        });
-
-        $('.flyRight').bind('inview', function(event, visible) {
-            if (visible === true) {
-                $(this).addClass('animated fadeInRightBig');
-            }
-        });
-    });
 
 });
