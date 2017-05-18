@@ -118,7 +118,6 @@ video#bgvid {
 
 /* home */
 
-#home3,
 #home {
     padding-top: 50%;
     font-size: 50px;
@@ -147,6 +146,7 @@ h3 {
     text-transform: uppercase;
     text-align: center;
     top: 100%;
+    font-size: 35px
 }
 
 .nine {
@@ -294,6 +294,7 @@ h3 {
 }
 
 #indstudy {
+    text-align: center;
     padding-top: 150px;
 }
 
@@ -302,10 +303,10 @@ h3 {
         font-size: 30px;
     }
     #home3 {
-        padding-top: 100%;
+        padding-top: 50%;
     }
     #homeInfo {
-        padding-top: 100%;
+        padding-top: 50%;
     }
 }
 
@@ -315,10 +316,10 @@ h3 {
         top: 50%;
     }
     #home3 {
-        padding-top: 100%;
+        padding-top: 50%;
     }
     #homeInfo {
-        padding-top: 100%;
+        padding-top: 50%;
     }
 }
 
@@ -327,16 +328,22 @@ h3 {
         font-size: 40px;
     }
     #home3 {
-        padding-top: 100%;
+        padding-top: 50%;
     }
     #homeInfo {
-        padding-top: 100%;
+        padding-top: 50%;
     }
     .offset1 {
         margin-left: 330px;
     }
     .offset2 {
         margin-left: 830px;
+    }
+}
+
+@media(min-width:1200px) {
+    #home3 {
+        padding-top: 150px;
     }
 }
 
