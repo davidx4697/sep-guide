@@ -239,51 +239,14 @@ h3 {
 }
 
 
+
+
 /* Robotics */
 
 #robotics {
     /*position: relative;*/
     /*bottom: 210px;*/
 }
-
-
-/*#robots1 {*/
-
-
-/*    position: relative;*/
-
-
-/*    top: 70px;*/
-
-
-/*}*/
-
-
-/* Scratch */
-
-
-/*#scratch {*/
-
-
-/*    position: relative;*/
-
-
-/*    top: 100px;*/
-
-
-/*}*/
-
-
-/*#python1 {*/
-
-
-/*    position: relative;*/
-
-
-/*    bottom: 250px;*/
-
-
-/*}*/
 
 #sinatra {
     padding-top: 150px;
@@ -296,6 +259,19 @@ h3 {
 #indstudy {
     text-align: center;
     padding-top: 150px;
+}
+
+.row {
+    display: block;
+    /* width: 100%; */
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
 
 @media(max-width:768px) {
